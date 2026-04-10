@@ -114,7 +114,7 @@ APJ Abdul Kalam Technological University
 ```bibtex
 @article{kurup2026vein,
   title     = {CNN-Based Dorsal Hand Vein Authentication Using Triplet Loss Metric Learning},
-  author    = {Kurup, Abhijith S and Adithye, J and R, Abhimanyu and S, Adithiya and V R, Girija},
+  author    = {Abhijith S Kurup and Adithye J and Abhimanyu R and Adithiya S and Girija V R},
   journal   = {IJARCCE},
   volume    = {15},
   number    = {3},
