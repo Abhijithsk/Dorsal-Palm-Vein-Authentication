@@ -499,15 +499,15 @@ J Adithye, Abhimanyu R, Abhijith S Kurup, Adithiya S, Girija V R, "CNN-Based Dor
 
 **BibTeX:**
 ```bibtex
-@article{adithye2026dorsalvein,
-  title   = {CNN-Based Dorsal Hand Vein Authentication Using Triplet Loss Metric Learning},
-  author  = {J Adithye and Abhimanyu R and Abhijith S Kurup and Adithiya S and Girija V R},
-  journal = {International Journal of Advanced Research in Computer and Communication Engineering (IJARCCE)},
-  volume  = {15},
-  number  = {3},
-  year    = {2026},
-  doi     = {10.17148/IJARCCE.2026.15372},
-  url     = {https://doi.org/10.17148/IJARCCE.2026.15372}
+@article{kurup2026vein,
+  title     = {CNN-Based Dorsal Hand Vein Authentication Using Triplet Loss Metric Learning},
+  author    = {Abhijith S Kurup and Adithye J and Abhimanyu R and Adithiya S and Girija V R},
+  journal   = {IJARCCE},
+  volume    = {15},
+  number    = {3},
+  year      = {2026},
+  doi       = {10.17148/IJARCCE.2026.15372},
+  issn      = {2278-1021}
 }
 ```
 
